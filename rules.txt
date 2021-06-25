@@ -1,0 +1,39 @@
+-Historia do domino:
+
+O domino e um jogo de mesa que pode ser considerado como uma extensao dos dados. 
+Embora imagina-se que sua origem e oriental e antiquissima, nao sabemos se a forma atual era conhecida na Europa ate a metade do seculo XVIII, quando os italianos o introduziram.
+
+Sua popularidade nos paises latino-americanos e enorme, particularmente no Caribe (Porto Rico, Cuba, etc.).
+
+-Objetivo do jogo:
+
+Para jogar domino sao necessarias 28 pedras retangulares. 
+Cada pedra esta dividida em 2 espacos iguales nos que aparece um numero de 0 ate 6. 
+As pedras abrangem todas as combinacoes possiveis com estes numeros.
+
+-Como jogar o domino:
+
+Cada jogador recebe 7 pedras quando comeca a rodada, e as pedras restantes ficam no cava para serem compradas.
+
+O jogador que comeca a partida leva vantagem. Este um conceito importante para a estrategia do domino.
+
+-Desenvolvimento do jogo:
+
+Cada jogador, no seu turno, deve colocar uma das suas pedras em uma das 2 extremidades abertas da mesa, de forma que os pontos de um dos lados coincida com os pontos da extremidade onde esta sendo colocada.
+
+Quando o jogador coloca sua pedra sobre a mesa, seu turno se acaba e passa-se ao seguinte jogador.
+
+Se um jogador nao puder jogar, devera comprar do cava tantas pedras como forem necessarias. Se nao houver pedras no cava, passara o turno ao seguinte jogador.
+
+-Final de uma rodada:
+
+A partida continua com os jogadores colocando suas pedras sobre a mesa ate que se apresente alguma das seguintes situacoes:
+
+-Domino:
+Quando um jogador coloca sua ultima pedra na mesa, essa acao e chamada de bater. 
+
+-Fecha:
+Existem casos onde nenhum dos jogadores pode continuar a partida. 
+Isto ocorre quando o numero das extremidades saiu 7 vezes antes. 
+Nesse momento se diz que a partida esta fechada. 
+Os jogadores contarao os pontos das pedras que ficaram; o jogador vence e somam-se os pontos da maneira habitual.
